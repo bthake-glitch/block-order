@@ -1,6 +1,6 @@
 {
-  "name": "Adbri Block Order",
-  "short_name": "Block Order",
+  "name": "BT Block Order",
+  "short_name": "BT Block Order",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
