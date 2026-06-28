@@ -1,5 +1,5 @@
-const CACHE = 'bt-block-order-v3-2';
-const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
+const CACHE = 'bt-block-order-v3-3-yellow-icon';
+const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-yellow-192.png', './icon-yellow-512.png'];
 
 self.addEventListener('install', e => {
   self.skipWaiting();

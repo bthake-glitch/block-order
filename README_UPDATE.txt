@@ -1,17 +1,23 @@
-Yellow/Black App Icon Update
+BT Block Order v3.3 Yellow/Black Icon Fix
 
-Changes:
-- Updated Home Screen app icon to yellow and black.
-- Updated icon-192.png and icon-512.png.
-- Updated cache so the phone sees it as a new version.
+Fix:
+- Uses NEW icon filenames: icon-yellow-192.png and icon-yellow-512.png.
+- Manifest points to the new icon filenames so Chrome cannot keep using the old cached icon.
+- Old icon filenames are also overwritten for compatibility.
 
-Upload/replace:
+Upload/replace ALL these files:
 - index.html
 - manifest.webmanifest
 - sw.js
 - icon-192.png
 - icon-512.png
+- icon-yellow-192.png
+- icon-yellow-512.png
 
 Important:
-After uploading to GitHub, open the app link in Chrome and refresh.
-If the Home Screen icon does not change straight away, remove the old app icon from your phone and add it to Home Screen again.
+If the Home Screen icon still shows the old one after uploading:
+1. Remove the old BT Block Order shortcut/app icon from your phone Home Screen.
+2. Open https://bthake-glitch.github.io/block-order/ in Chrome.
+3. Refresh.
+4. Add to Home Screen again.
+Android often does not update an already-installed PWA icon until it is re-added.
