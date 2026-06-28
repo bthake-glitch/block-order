@@ -1,21 +1,15 @@
-BT BLOCK ORDER APP v1.3
+BT BLOCK ORDER APP v1.4
 
-Changes:
-- Removed Adbri and Pinkenba branding from the app.
-- App name changed to: BT Block Order.
-- Header changed to: BLOCK ORDER.
-- Subtitle changed to: 200 Series Concrete Masonry Units.
-- Added version label: BT Block Order · Version 1.3.
-- Updated app icons.
+New feature:
+- Add and save Job Name and Site Address.
+- Select saved jobs from a list.
+- New Job button clears the job fields.
+- Delete Job button removes a saved job.
+- Copy Order now includes Job and Address at the top of the order text.
 
-How to update GitHub:
-1. Unzip this package.
-2. Open your GitHub block-order repository.
-3. Upload/replace these files:
-   - index.html
-   - manifest.webmanifest
-   - sw.js
-   - icon-192.png
-   - icon-512.png
-4. Commit changes.
-5. Open the app on your phone and refresh.
+Upload/replace these files in GitHub:
+- index.html
+- manifest.webmanifest
+- sw.js
+- icon-192.png
+- icon-512.png
