@@ -1,11 +1,11 @@
-BT BLOCK ORDER APP v1.4
+BT BLOCK ORDER APP v1.5
 
-New feature:
-- Add and save Job Name and Site Address.
-- Select saved jobs from a list.
-- New Job button clears the job fields.
-- Delete Job button removes a saved job.
-- Copy Order now includes Job and Address at the top of the order text.
+Improvement:
+- Saved Job selector is now large and easy to see under CURRENT JOB.
+- Saved jobs display as Job Name — Site Address.
+- App remembers the last selected job.
+- Status shows Saved / Changed / Unsaved.
+- Copy Order includes Job and Address.
 
 Upload/replace these files in GitHub:
 - index.html
