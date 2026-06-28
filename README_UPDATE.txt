@@ -1,11 +1,10 @@
-BT BLOCK ORDER APP v1.7
+BT BLOCK ORDER APP v1.8
 
-Fixes:
-- Job section now collapses/retracts.
-- Tap Job Details to open/close.
-- Saved job picker is inside the retractable section.
-- Job summary stays visible while the job section is collapsed.
-- Fixed job save/select/copy order logic.
+Change:
+- Added large, easy-to-read dimension numbers under each block drawing.
+- Block pictures stay about the same size.
+- Job Details panel remains collapsible.
+- Copy Order and saved jobs retained.
 
 Upload/replace:
 - index.html
