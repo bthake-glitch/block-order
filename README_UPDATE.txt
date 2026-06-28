@@ -1,10 +1,10 @@
-BT BLOCK ORDER APP v1.8
+BT BLOCK ORDER APP v2.0
 
 Change:
-- Added large, easy-to-read dimension numbers under each block drawing.
-- Block pictures stay about the same size.
-- Job Details panel remains collapsible.
-- Copy Order and saved jobs retained.
+- Compact fixed top section/header.
+- Header, buttons, job summary and job panel take much less vertical screen space.
+- More block cards visible on the phone screen.
+- Keeps v1.9 compact block cards and large dimension numbers.
 
 Upload/replace:
 - index.html
