@@ -1,14 +1,13 @@
-BT BLOCK ORDER APP v2.0
+BT Block Order v2.0.1
 
-Change:
-- Compact fixed top section/header.
-- Header, buttons, job summary and job panel take much less vertical screen space.
-- More block cards visible on the phone screen.
-- Keeps v1.9 compact block cards and large dimension numbers.
+Changes:
+- Changed 'New / Unsaved Job' to 'Saved Jobs'.
+- Changed 'No job selected' to 'No saved job selected'.
+- Updated cache version.
 
-Upload/replace:
-- index.html
-- manifest.webmanifest
-- sw.js
-- icon-192.png
-- icon-512.png
+Upload these 5 files:
+index.html
+manifest.webmanifest
+sw.js
+icon-192.png
+icon-512.png
