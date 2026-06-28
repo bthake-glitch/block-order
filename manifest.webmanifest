@@ -1,6 +1,6 @@
 {
-  "name": "BT Block Order",
-  "short_name": "BT Block Order",
+  "name": "BT Block Order Multi",
+  "short_name": "BT Multi",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
