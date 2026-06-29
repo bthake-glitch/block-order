@@ -1,10 +1,11 @@
-BT Block Order v3.5
+BT Block Order v3.6
 
 Fix:
-- Restored the gold star favourite buttons.
-- Kept the yellow/black Home Screen icon.
-- Favourites are saved on your phone.
+- Restored favourite stars in a more visible position.
+- Star is now inside the block name row, not a hidden third column.
+- Gold star favourites are saved on your phone.
 - Starred blocks move to the top.
+- Keeps yellow/black app icon.
 
 Upload/replace ALL 7 files:
 - index.html
@@ -14,8 +15,3 @@ Upload/replace ALL 7 files:
 - icon-512.png
 - icon-yellow-192.png
 - icon-yellow-512.png
-
-After uploading:
-1. Open https://bthake-glitch.github.io/block-order/ in Chrome.
-2. Refresh.
-3. Open the app.
