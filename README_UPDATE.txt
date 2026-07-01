@@ -1,12 +1,12 @@
-BT Block Order v3.9 SAFE
+BT Block Order v4.0
 
-Fix:
-- Rebuilt from the star/yellow-icon version.
-- Fixed the star JavaScript template.
-- Added safe + / - quantity buttons.
-- Gold stars retained.
-- Yellow/black icon retained.
-- JavaScript syntax checked before packaging.
+Changes:
+- Quantity controls redesigned.
+- Number is now large on top.
+- Minus and plus buttons sit below the number.
+- Fixes portrait phone clipping issue.
+- Bottom Copy Order / Clear All bar reduced to about half height.
+- Gold stars and yellow/black icon retained.
 
 Upload/replace all 7 files:
 - index.html
