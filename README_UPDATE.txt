@@ -1,12 +1,10 @@
-BT Block Order v4.0
+BT Block Order v4.1
 
-Changes:
-- Quantity controls redesigned.
-- Number is now large on top.
-- Minus and plus buttons sit below the number.
-- Fixes portrait phone clipping issue.
-- Bottom Copy Order / Clear All bar reduced to about half height.
-- Gold stars and yellow/black icon retained.
+Fix:
+- Fixed the Update button.
+- Update now clears service worker cache and reloads with a fresh URL.
+- Service worker changed to network-first for the app page.
+- Keeps stacked quantity controls, smaller footer, gold stars and yellow/black icon.
 
 Upload/replace all 7 files:
 - index.html
