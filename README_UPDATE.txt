@@ -1,13 +1,14 @@
-BT Block Order v3.6
+BT Block Order v3.9 SAFE
 
 Fix:
-- Restored favourite stars in a more visible position.
-- Star is now inside the block name row, not a hidden third column.
-- Gold star favourites are saved on your phone.
-- Starred blocks move to the top.
-- Keeps yellow/black app icon.
+- Rebuilt from the star/yellow-icon version.
+- Fixed the star JavaScript template.
+- Added safe + / - quantity buttons.
+- Gold stars retained.
+- Yellow/black icon retained.
+- JavaScript syntax checked before packaging.
 
-Upload/replace ALL 7 files:
+Upload/replace all 7 files:
 - index.html
 - manifest.webmanifest
 - sw.js
